@@ -5,28 +5,28 @@ import urllib.request
 import pandas as pd
 
 
-def divide_chunks(l, n):
-    # looping till length l
-    for i in range(0, len(l), n):
-        yield l[i:i + n]
-
-
 def get_character_frames(char_name):
+    data_frames = []
     fid = urllib.request.urlopen(f'https://rbnorway.org/{char_name}-t7-frames/')
 
     webpage = fid.read().decode('utf-8', errors='ignore')
     columns = ['Command', 'Hit level', 'Damage', 'Start up frame', 'Block frame	', 'Hit frame', 'Counter hit frame',
                'Notes']
-    all_row = []
 
     soup = BeautifulSoup(webpage, 'lxml')
 
     for row in soup.find_all('tr'):
-        for data in row.find_all('td'):
+        col_num = 0
+        all_row = []
+
+        for data in row.find_all('td')[0:8]:
+
             all_row.append(data.text)
-    data = list(divide_chunks(all_row, 8))
-    print(data)
-    df = pd.DataFrame(data=data, columns=columns)
+            col_num = col_num + 1
+            if len(all_row) == 8:
+                data_frames.append(all_row)
+
+    df = pd.DataFrame(data=data_frames, columns=columns)
     df.to_csv(f'{os.path.dirname(__file__)}/frames/{char_name}.csv', index=False)
 
 
