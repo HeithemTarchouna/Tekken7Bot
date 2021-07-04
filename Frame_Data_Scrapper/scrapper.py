@@ -41,17 +41,16 @@ def get_all_characters_names():
 
     for item in character_list_items_html:
         character_list.append(item.text.replace(item.text.split(' ')[0], '').strip().replace(' ', '-'))
+    character_list[19] = 'Jack7'  # correct a spelling error of the name to match the rbnorway character name
+    character_list.remove('Panda')
     return character_list
 
 
-print(get_all_characters_names())
-characters = get_all_characters_names()
-characters[19] = 'jack7'
-characters.remove('Panda')
-
-parent_directory = os.path.dirname(__file__)
-directory = 'frames'
-os.mkdir(os.path.join(parent_directory, directory))
-
-for character_name in characters:
-    get_character_frames(character_name)
+def get_all_character_frames_to_csv():
+    print(get_all_characters_names())
+    characters = get_all_characters_names()
+    parent_directory = os.path.dirname(__file__)
+    directory = 'frames'
+    os.mkdir(os.path.join(parent_directory, directory))
+    for character_name in characters:
+        get_character_frames(character_name)

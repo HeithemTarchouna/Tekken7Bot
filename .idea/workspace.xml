@@ -19,57 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fac9b834-aa4e-4188-afc8-c86cc4642686" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Frame_Data_Scrapper/frames/Akuma.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frame_Data_Scrapper/frames/Alisa.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frame_Data_Scrapper/frames/Anna.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frame_Data_Scrapper/frames/Armor-King.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frame_Data_Scrapper/frames/Asuka.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frame_Data_Scrapper/frames/Bob.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frame_Data_Scrapper/frames/Bryan.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frame_Data_Scrapper/frames/Claudio.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frame_Data_Scrapper/frames/Devil-Jin.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frame_Data_Scrapper/frames/Dragunov.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frame_Data_Scrapper/frames/Eddy.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frame_Data_Scrapper/frames/Eliza.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frame_Data_Scrapper/frames/Fahkumram.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frame_Data_Scrapper/frames/Feng.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frame_Data_Scrapper/frames/Ganryu.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frame_Data_Scrapper/frames/Geese.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frame_Data_Scrapper/frames/Gigas.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frame_Data_Scrapper/frames/Heihachi.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frame_Data_Scrapper/frames/Hwoarang.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frame_Data_Scrapper/frames/Jin.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frame_Data_Scrapper/frames/Josie.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frame_Data_Scrapper/frames/Julia.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frame_Data_Scrapper/frames/Katarina.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frame_Data_Scrapper/frames/Kazumi.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frame_Data_Scrapper/frames/Kazuya.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frame_Data_Scrapper/frames/King.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frame_Data_Scrapper/frames/Kuma.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frame_Data_Scrapper/frames/Kunimitsu.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frame_Data_Scrapper/frames/Lars.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frame_Data_Scrapper/frames/Law.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frame_Data_Scrapper/frames/Lee.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frame_Data_Scrapper/frames/Lei.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frame_Data_Scrapper/frames/Leo.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frame_Data_Scrapper/frames/Leroy.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frame_Data_Scrapper/frames/Lidia.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frame_Data_Scrapper/frames/Lili.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frame_Data_Scrapper/frames/Lucky-Chloe.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frame_Data_Scrapper/frames/Marduk.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frame_Data_Scrapper/frames/Master-Raven.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frame_Data_Scrapper/frames/Miguel.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frame_Data_Scrapper/frames/Negan.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frame_Data_Scrapper/frames/Nina.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frame_Data_Scrapper/frames/Noctis.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frame_Data_Scrapper/frames/Paul.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frame_Data_Scrapper/frames/Shaheen.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frame_Data_Scrapper/frames/Steve.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frame_Data_Scrapper/frames/Xiaoyu.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frame_Data_Scrapper/frames/Yoshimitsu.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frame_Data_Scrapper/frames/Zafina.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frame_Data_Scrapper/frames/jack7.csv" beforeDir="false" />
+    <list default="true" id="fac9b834-aa4e-4188-afc8-c86cc4642686" name="Default Changelist" comment="Fixed wrong frames">
+      <change afterPath="$PROJECT_DIR$/Frame_Data_Scrapper/characters.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frame_Data_Scrapper/csv_to_sql.py" beforeDir="false" afterPath="$PROJECT_DIR$/Frame_Data_Scrapper/csv_to_sql.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Frame_Data_Scrapper/scrapper.py" beforeDir="false" afterPath="$PROJECT_DIR$/Frame_Data_Scrapper/scrapper.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -88,11 +41,15 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1umDWWSl0YVX4RUNul7dSAwxPpV" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
@@ -102,7 +59,7 @@
       <recent name="C:\Users\user\Desktop\Machine Learning Projects\Tekken7_Bot" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.scrapper">
+  <component name="RunManager" selected="Python.csv_to_sql">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="Tekken7_Bot" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -145,6 +102,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="csv_to_sql" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\user\.conda\envs\flask\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Frame_Data_Scrapper/csv_to_sql.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="scrapper" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Tekken7_Bot" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -166,9 +144,32 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\user\.conda\envs\flask\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Frame_Data_Scrapper/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
+      <item itemvalue="Python.test" />
       <item itemvalue="Python.bot" />
       <item itemvalue="Python.scrapper" />
+      <item itemvalue="Python.csv_to_sql" />
     </list>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -180,6 +181,21 @@
       <option name="presentableId" value="Default" />
       <updated>1625261902855</updated>
     </task>
+    <task id="LOCAL-00001" summary="Fixed wrong frames">
+      <created>1625345920169</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1625345920169</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Fixed wrong frames">
+      <created>1625345996349</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1625345996349</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -192,62 +208,73 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Fixed wrong frames" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed wrong frames" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1625326680215">
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1625361336411">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.54.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1625326680215" />
-    <state x="734" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1625326987520">
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.54.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1625361336411" />
+    <state x="734" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1625350405275">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="734" y="322" key="#com.intellij.fileTypes.FileTypeChooser/1920.54.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1625326987520" />
-    <state width="1899" height="322" key="GridCell.Tab.0.bottom" timestamp="1625345672038">
+    <state x="734" y="322" key="#com.intellij.fileTypes.FileTypeChooser/1920.54.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1625350405275" />
+    <state width="1899" height="322" key="GridCell.Tab.0.bottom" timestamp="1625365039918">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="322" key="GridCell.Tab.0.bottom/1920.54.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1625345672038" />
+    <state width="1899" height="322" key="GridCell.Tab.0.bottom/1920.54.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1625365039918" />
     <state width="1259" height="282" key="GridCell.Tab.0.bottom/1920.54.1280.984/0.0.1920.1040@1920.54.1280.984" timestamp="1625345012971" />
-    <state width="1899" height="322" key="GridCell.Tab.0.center" timestamp="1625345672038">
+    <state width="1899" height="322" key="GridCell.Tab.0.center" timestamp="1625365039918">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="322" key="GridCell.Tab.0.center/1920.54.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1625345672038" />
+    <state width="1899" height="322" key="GridCell.Tab.0.center/1920.54.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1625365039918" />
     <state width="1259" height="282" key="GridCell.Tab.0.center/1920.54.1280.984/0.0.1920.1040@1920.54.1280.984" timestamp="1625345012970" />
-    <state width="1899" height="322" key="GridCell.Tab.0.left" timestamp="1625345672037">
+    <state width="1899" height="322" key="GridCell.Tab.0.left" timestamp="1625365039917">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="322" key="GridCell.Tab.0.left/1920.54.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1625345672037" />
+    <state width="1899" height="322" key="GridCell.Tab.0.left/1920.54.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1625365039917" />
     <state width="1259" height="282" key="GridCell.Tab.0.left/1920.54.1280.984/0.0.1920.1040@1920.54.1280.984" timestamp="1625345012970" />
-    <state width="1899" height="322" key="GridCell.Tab.0.right" timestamp="1625345672038">
+    <state width="1899" height="322" key="GridCell.Tab.0.right" timestamp="1625365039918">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="322" key="GridCell.Tab.0.right/1920.54.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1625345672038" />
+    <state width="1899" height="322" key="GridCell.Tab.0.right/1920.54.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1625365039918" />
     <state width="1259" height="282" key="GridCell.Tab.0.right/1920.54.1280.984/0.0.1920.1040@1920.54.1280.984" timestamp="1625345012971" />
-    <state width="1899" height="348" key="GridCell.Tab.1.bottom" timestamp="1625324861220">
+    <state width="1899" height="348" key="GridCell.Tab.1.bottom" timestamp="1625363304233">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="348" key="GridCell.Tab.1.bottom/1920.54.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1625324861220" />
-    <state width="1899" height="348" key="GridCell.Tab.1.center" timestamp="1625324861220">
+    <state width="1899" height="348" key="GridCell.Tab.1.bottom/1920.54.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1625363304233" />
+    <state width="1899" height="348" key="GridCell.Tab.1.center" timestamp="1625363304233">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="348" key="GridCell.Tab.1.center/1920.54.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1625324861220" />
-    <state width="1899" height="348" key="GridCell.Tab.1.left" timestamp="1625324861220">
+    <state width="1899" height="348" key="GridCell.Tab.1.center/1920.54.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1625363304233" />
+    <state width="1899" height="348" key="GridCell.Tab.1.left" timestamp="1625363304233">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="348" key="GridCell.Tab.1.left/1920.54.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1625324861220" />
-    <state width="1899" height="348" key="GridCell.Tab.1.right" timestamp="1625324861220">
+    <state width="1899" height="348" key="GridCell.Tab.1.left/1920.54.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1625363304233" />
+    <state width="1899" height="348" key="GridCell.Tab.1.right" timestamp="1625363304233">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="348" key="GridCell.Tab.1.right/1920.54.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1625324861220" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Frame_Data_Scrapper/scrapper.py</url>
-          <line>51</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <state width="1899" height="348" key="GridCell.Tab.1.right/1920.54.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1625363304233" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1625363832127">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/1920.54.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1625363832127" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1625346008073">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/1920.54.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1625346008073" />
+    <state x="1920" y="54" width="1296" height="677" maximized="true" key="dock-window-1" timestamp="1625360719213">
+      <screen x="1920" y="54" width="1280" height="984" />
+    </state>
+    <state x="1920" y="54" width="1296" height="677" maximized="true" key="dock-window-1/1920.54.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1625360719213" />
+    <state x="1920" y="54" width="1296" height="677" key="dock-window-2" timestamp="1625363181582">
+      <screen x="1920" y="54" width="1280" height="984" />
+    </state>
+    <state x="1920" y="54" width="1296" height="677" key="dock-window-2/1920.54.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1625363181582" />
   </component>
 </project>
